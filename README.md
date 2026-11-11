@@ -107,3 +107,16 @@ Frontenddagi tekshiruvlar faqat qulaylik uchun. Haqiqiy himoya backendda.
 ## Eslatma
 
 Savat brauzerda saqlanadi, buyurtma berilganda narx baribir serverda qayta hisoblanadi.
+
+
+
+## Bog'liq loyiha
+
+Backend: [gift_blok](https://github.com/sobir-rahmonov/gift_blok)
+Frontend: [gift_frontend](https://github.com/sobir-rahmonovI/gift_frontend)
+
+## Muallif
+
+**ISM FAMILIYA**
+GitHub: [@sobir-rahmonov](https://github.com/sobir-rahmonov)
+Aloqa: email@example.com
